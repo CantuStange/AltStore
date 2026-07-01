@@ -13,6 +13,7 @@
     {
       "name": "Zmart EX",
       "bundleIdentifier": "br.com.cantustange.zmartex",
+      "marketplaceID": "9876543210",
       "developerName": "CantuStange",
       "subtitle": "Aplicativo Zmart EX",
       "localizedDescription": "Aplicativo interno Zmart EX para uso autorizado.",
