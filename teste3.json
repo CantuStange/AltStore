@@ -1,11 +1,11 @@
 {
   "name": "CantuStange Apps",
-  "subtitle": "",
-  "description": "",
-  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-  "website": "",
-  "patreonURL": "",
-  "tintColor": "#6156e2",
+  "subtitle": "Apps internos da empresa",
+  "description": "Repositório de apps iOS internos da CantuStange.",
+  "iconURL": "https://apps.suaempresa.com.br/altstore/icon.png",
+  "headerURL": "https://apps.suaempresa.com.br/altstore/header.png",
+  "website": "https://apps.suaempresa.com.br",
+  "tintColor": "#005BBB",
   "featuredApps": [
     "br.com.cantustange.zmartex"
   ],
