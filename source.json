@@ -27,7 +27,7 @@
           "buildVersion": "1",
           "date": "2026-07-01",
           "localizedDescription": "Primeira versão distribuída via AltStore.",
-          "downloadURL": "https://github.com/CantuStange/AltStore/raw/refs/heads/main/zmartexx.ipa",
+          "downloadURL": "https://raw.githubusercontent.com/CantuStange/AltStore/refs/heads/main/zmartex.ipa",
           "size": 12345678,
           "minOSVersion": "15.0"
         }
