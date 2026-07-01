@@ -1,0 +1,42 @@
+{
+  "name": "CantuStange Apps",
+  "subtitle": "Apps internos da empresa",
+  "description": "Repositório de apps iOS internos da CantuStange.",
+  "iconURL": "https://apps.suaempresa.com.br/altstore/icon.png",
+  "headerURL": "https://apps.suaempresa.com.br/altstore/header.png",
+  "website": "https://apps.suaempresa.com.br",
+  "tintColor": "#005BBB",
+  "featuredApps": [
+    "br.com.cantustange.zmartex"
+  ],
+  "apps": [
+    {
+      "name": "Zmart EX",
+      "bundleIdentifier": "br.com.cantustange.zmartex",
+      "marketplaceID": "9876543210",
+      "developerName": "CantuStange",
+      "subtitle": "Aplicativo Zmart EX",
+      "localizedDescription": "Aplicativo interno Zmart EX para uso autorizado.",
+      "iconURL": "https://apps.suaempresa.com.br/altstore/zmartex/icon.png",
+      "tintColor": "#005BBB",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "1",
+          "date": "2026-07-01",
+          "localizedDescription": "Primeira versão distribuída via AltStore.",
+          "downloadURL": "https://github.com/CantuStange/AltStore/raw/refs/heads/main/zmartexx.ipa",
+          "size": 12345678,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
