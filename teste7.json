@@ -1,0 +1,46 @@
+{
+  "name": "CantuStange Apps",
+  "subtitle": "Apps internos da empresa",
+  "description": "Repositório de apps iOS internos da CantuStange.",
+  "iconURL": "https://apps.suaempresa.com.br/altstore/icon.png",
+  "headerURL": "https://apps.suaempresa.com.br/altstore/header.png",
+  "website": "https://apps.suaempresa.com.br",
+  "tintColor": "#005BBB",
+  "featuredApps": [
+    "br.com.cantustange.zmartex"
+  ],
+  "apps": [
+    {
+      "name": "Zmart EX",
+      "bundleIdentifier": "br.com.cantustange.zmartex",
+      "marketplaceID": "9876543210",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/9FpbCmG.png",
+      "tintColor": "#04c4ec",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://www.cantustange.com.br/download/ZmartEXNovo/ZmartEXNovo_8.ipa",
+          "size": 33200000,
+          "version": "70.139.00",
+          "buildVersion": "1",
+          "date": "2026-07-01",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Uso para determinar local do usuário ao realizar ações no sistema.",
+          "NSCameraUsageDescription": "Uso para configurar conexão e registrar fotos em operações do sistema.",
+          "NSLocalNetworkUsageDescription": "Uso para se conectar à API localmente."
+        }
+      }
+    }
+  ],
+  "news": []
+}
